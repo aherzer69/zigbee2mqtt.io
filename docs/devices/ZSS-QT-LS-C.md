@@ -36,6 +36,8 @@ pageClass: device-page
 
 * `illuminance_raw`: Expose the raw illuminance value. The value must be `true` or `false`
 
+* `CR2032-Battery; 0 to 1000 Lux, size: 50 x 17 mm`
+
 
 ## Exposes
 
